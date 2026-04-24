@@ -1,6 +1,7 @@
 # Lanchonete Tester
 
-Aplicacao frontend para testar os endpoints da API da lanchonete.
+Aplicacao frontend para testar os endpoints da API Raízes do Nordeste que está nesse repositório
+https://github.com/ThaliaGuedes/LanchoneteAPI
 
 ## Tecnologias
 
